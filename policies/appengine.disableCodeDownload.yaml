@@ -1,0 +1,4 @@
+name: projects/PROJECTID/policies/appengine.disableCodeDownload
+spec:
+  rules:
+  - enforce: false

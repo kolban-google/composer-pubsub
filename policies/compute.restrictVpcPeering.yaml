@@ -1,0 +1,4 @@
+name: projects/PROJECTID/policies/compute.restrictVpcPeering
+spec:
+  rules:
+  - allowAll: true

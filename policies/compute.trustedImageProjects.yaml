@@ -1,0 +1,4 @@
+name: projects/PROJECTID/policies/compute.trustedImageProjects
+spec:
+  rules:
+  - allowAll: true

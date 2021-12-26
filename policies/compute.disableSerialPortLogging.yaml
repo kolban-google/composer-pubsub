@@ -1,0 +1,4 @@
+name: projects/PROJECTID/policies/compute.disableSerialPortLogging
+spec:
+  rules:
+  - enforce: false

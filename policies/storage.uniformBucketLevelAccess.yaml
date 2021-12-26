@@ -1,0 +1,4 @@
+name: projects/PROJECTID/policies/storage.uniformBucketLevelAccess
+spec:
+  rules:
+  - enforce: false
